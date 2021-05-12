@@ -13,7 +13,7 @@
     "chartist": "^0.11.4",
     "customize-cra": "^0.9.1",
     "isomorphic-fetch": "^2.2.1",
-    "mathjs": "^6.6.1",
+    "mathjs": "^7.5.1",
     "nodemon": "^2.0.2",
     "react": "^16.12.0",
     "react-app-rewired": "^2.1.5",
